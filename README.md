@@ -1,8 +1,8 @@
-# Collaborative Drawing Tool
+# Drawing Tool
 Drawing on single canvas is easy. With socket.io we can extend the functionality, so that multiple people can draw on the same canvas ! So that everybody can scribble and see the same doodle :)
 
 # Preview
-![](https://media.giphy.com/media/jOyqUNjFM6bI1fogLO/giphy.gif)
+
 
 ## Getting Started
 
